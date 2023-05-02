@@ -1,6 +1,6 @@
 - Hi, I’m Paul
 - I’m interested in Videogames and their design, but also Webdevelopment 
-- I’m trying to learn about all different fields of SE 
+- I’m trying to learn about all different fields of CS 
 - I’m currently learning C++ and JS
 
 <!---
